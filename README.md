@@ -89,8 +89,8 @@ of sustainable brand adoption.
 
 ## 🔗 Related Projects
 
-- [📱 Mobile Game Downloads — Panel Data Analysis](https://github.com/thaotracy-sg/game-app-panel-analysis)
-- [🔋 Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/electric-power-co2-forecasting-europe)
+- [📱 Mobile Game Downloads — Panel Data Analysis](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp)
+- [🔋 Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe)
 
 ---
 
