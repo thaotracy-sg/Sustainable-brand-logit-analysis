@@ -25,18 +25,6 @@ of sustainable brand adoption.
 
 ---
 
-## 📂 Repository Structure
-
-```
-sustainable-brand-logit-analysis/
-│
-├── Part2_SustainableBrand_Logit.Rmd   ← Full analysis (R Markdown)
-├── Part2_SustainableBrand_Logit.html  ← Rendered report (open in browser)
-└── README.md
-```
-
----
-
 ## 🔬 Methods
 
 | Step | Method | Purpose |
