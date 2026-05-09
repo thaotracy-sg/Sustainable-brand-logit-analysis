@@ -99,18 +99,6 @@ sustainable-brand-logit-analysis/
 
 ---
 
-## 📈 How to Run
-
-1. Clone this repository
-2. Open `Part2_SustainableBrand_Logit.Rmd` in RStudio
-3. Update the file path in the `load-data` chunk to your local data location
-4. Click **Knit** to render the HTML report
-
-Or simply open `Part2_SustainableBrand_Logit.html` in your browser to view
-the full rendered analysis without running any code.
-
----
-
 ## 🔗 Related Projects
 
 - [📱 Mobile Game Downloads — Panel Data Analysis](https://github.com/thaotracy-sg/game-app-panel-analysis)
