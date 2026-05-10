@@ -89,8 +89,11 @@ of sustainable brand adoption.
 
 ## 🔗 Related Projects
 
-- [📱 Mobile Game Downloads — Panel Data Analysis](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp)
-- [🔋 Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe)
+📊 [Power BI IMS Dashboard Enhancement – Healthcare](https://github.com/thaotracy-sg/powerbi-ims-dashboard-enhancement-healthcare) <br>
+🛒 [SQL + R Customer Survey Pipeline](https://github.com/thaotracy-sg/sql-r-customer-survey-pipeline) <br>
+📱 [Causal Analysis Using Panel Logit Model – Game App](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp) <br>
+🧴 [Commercial Analytics – Skincare Channel Performance](https://github.com/thaotracy-sg/Commercial-analytics-skincare-channel-performance) <br>
+🔋 [Time Series Forecasting – Electric Power & CO2 Emissions](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe) <br>
 
 ---
 
